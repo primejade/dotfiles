@@ -1,0 +1,3 @@
+#!/bin/sh
+
+feh --no-fehbg --bg-fill '/home/hos/Pictures/wallpaper/image_2021-02-16_17-04-36 (2).png'
