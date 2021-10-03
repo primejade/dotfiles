@@ -1,11 +1,14 @@
 # dotfiles
 
+in progress...
+
 **File Manager**
-- vifm
-- ranger
+- pcmanfm
+- ranger 
 
 **Terminal Emulator**
 - alaritty
+- kitty
 - xterm
 - urxvt
 
@@ -13,10 +16,13 @@
 - i3-gaps
 - tint2
 - openbox
+- awesomeWM
 
 **Workflow**
 - tmux 
 - zathura
 
-**Others**
-- cmus
+**Other**
+- neofetch
+- bpytop
+- links
