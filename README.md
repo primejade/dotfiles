@@ -20,7 +20,7 @@ in progress...
 
 - **Workflow**
     - [x] tmux 
-    - [ ] zathura
+    - [x] zathura
 
 - **Other**
     - [x] neofetch
