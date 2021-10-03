@@ -13,7 +13,7 @@ in progress...
     - [x] urxvt
 
 - **Window Manager**
-    - [ ] i3-gaps
+    - [x] i3-gaps
     - [x] tint2
     - [ ] openbox
     - [x] awesomeWM
