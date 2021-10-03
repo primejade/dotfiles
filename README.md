@@ -20,10 +20,10 @@ in progress...
 
 - **Workflow**
     - [x] tmux 
-        - |     keys  |                   action  |
-          |:---------:|:-------------------------:|
-          |` mod - v` | rename current window     |
-          | `mod - r` | source tmux configuration |
+        |     keys  |                   action  |
+        |:---------:|:-------------------------:|
+        |` mod - v` | rename current window     |
+        | `mod - r` | source tmux configuration |
     - [x] zathura
 
 - **Other**
