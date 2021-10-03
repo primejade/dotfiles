@@ -3,26 +3,26 @@
 in progress...
 
 - **File Manager**
-- [x] pcmanfm
-- [ ] ranger 
+    - [x] pcmanfm
+    - [ ] ranger 
 
 - **Terminal Emulator**
-- [x] alaritty
-- [x] kitty
-- [x] xterm
-- [x] urxvt
+    - [x] alaritty
+    - [x] kitty
+    - [x] xterm
+    - [x] urxvt
 
 - **Window Manager**
-- [ ] i3-gaps
-- [x] tint2
-- [ ] openbox
-- [x] awesomeWM
+    - [ ] i3-gaps
+    - [x] tint2
+    - [ ] openbox
+    - [x] awesomeWM
 
 - **Workflow**
-- [x] tmux 
-- [ ] zathura
+    - [x] tmux 
+    - [ ] zathura
 
 - **Other**
-- [x] neofetch
-- [x] bpytop
-- [x] links
+    - [x] neofetch
+    - [x] bpytop
+    - [x] links
