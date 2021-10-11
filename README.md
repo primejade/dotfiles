@@ -3,6 +3,7 @@
 in progress...
 
 - **File Manager**
+    - [x] vifm
     - [x] pcmanfm
     - [ ] ranger 
 
